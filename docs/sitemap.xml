@@ -3,48 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/</loc>
     <lastmod>2021-02-01T21:23:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/blog/2021-02-01-a-fourth-test/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/blog/2021-02-01-a-fourth-test/</loc>
     <lastmod>2021-02-01T21:23:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/tags/</loc>
     <lastmod>2021-02-01T21:23:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/test/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/tags/test/</loc>
     <lastmod>2021-02-01T21:23:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/2021-02-01-a-third-test/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/blog/2021-02-01-a-third-test/</loc>
     <lastmod>2021-02-01T21:01:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/2021-02-01-second-test/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/blog/2021-02-01-second-test/</loc>
     <lastmod>2021-02-01T20:59:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/2021-02-01-test-blog-post/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/blog/2021-02-01-test-blog-post/</loc>
     <lastmod>2021-02-01T20:30:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/blog/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://www.paulmwatson.com/hugo-netlify-cms-github-pages/categories/</loc>
   </url>
   
 </urlset>
